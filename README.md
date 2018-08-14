@@ -5,8 +5,8 @@ número de veces determinado, es un método que involucra volver a utilizar la f
 aquí se observará la implementación de recursividad en diferentes ejemplos muy comunes como son: hallar la multiplicación
 entre dos números, el mínimo común múltiplo entre dos números y el cálculo de una potencia.
 
-![multiplicación](pictures/multiplicacion.jpg "mult")
-![exponenciacion](pictures/exponenciacion.jpg "exp")
+![multiplicación](img/multiplicacion.jpg "mult")
+![exponenciacion](img/exponenciacion.jpg "exp")
 ![MCD](pictures/MCD.jpg "mcd")
 
 
