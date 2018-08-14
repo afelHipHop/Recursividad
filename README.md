@@ -7,7 +7,7 @@ entre dos números, el mínimo común múltiplo entre dos números y el cálculo
 
 ![multiplicación](img/multiplicacion.jpg "mult")
 ![exponenciacion](img/exponenciacion.jpg "exp")
-![MCD](pictures/MCD.jpg "mcd")
+![MCD](img/MCD.jpg "mcd")
 
 
 
