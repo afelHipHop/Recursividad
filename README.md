@@ -1,3 +1,7 @@
+### Andres Ramirez 20161020077
+### Samuel Holguin 20161020044
+### Kevin Rocha    20161020086  
+
 ## *_Recursividad_*
 ### La recursividad es una técnica implementada en programación que nos permite que un bloque de instrucciones se ejecute un número de veces determinado, es un método que involucra volver a utilizar la función original
 
@@ -7,8 +11,5 @@
 ![exponenciacion](img/exponenciacion.jpg "exp")
 ![MCD](img/MCD.jpg "mcd")
 
-### Andres Ramirez 20161020077
-### Samuel Holguin 20161020044
-### Kevin Rocha    20161020086  
 
 
